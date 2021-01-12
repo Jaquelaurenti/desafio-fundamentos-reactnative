@@ -2,8 +2,6 @@
 
 Nesse desafio, foi desenvolvido uma aplicação chamada **GoMarketplace**. O intuito é praticar os conceitos de React Native, junto com TypeScript, utilizando rotas, Async Storage e a Context API.
 
-![Demo](demo.gif)
-
 ## Utilizando uma fake API
 
 Para obter os dados e exibí-los em tela, há um arquivo que pode ser usado como uma fake API.
